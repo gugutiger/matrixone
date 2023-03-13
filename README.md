@@ -963,7 +963,7 @@ Contributions to MatrixOne are welcome from everyone.
         <a href="https://github.com/guguchecken">
             <img src="https://avatars.githubusercontent.com/u/107859756?v=4" width="30;" alt="guguchecken"/>
             <br />
-            <sub><b>guguchecken</b></sub>
+            <sub><b>Guguchecken</b></sub>
         </a>
     </td></tr>
 <tr>
